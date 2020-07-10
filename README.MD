@@ -8,4 +8,5 @@ I created this to be a opensource notes repo for my fellow classmates.
 		You can claim a page by pulling the repo, and changing the primary journal.html to indicate you have claimed the page. I put an example at the top.
 	
 	2-List what is on your page
-		On the primary journal.html list what is on your page, and creat links that work so we can easily know what to expect.
+		On the primary journal.html add a discription what is on your page.
+		
