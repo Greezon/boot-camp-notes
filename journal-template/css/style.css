@@ -1,0 +1,837 @@
+body{
+	font: normal 16px Arial, Helvetica, sans-serif;
+	line-height:1.6em;
+	margin:10%;
+	line-height:1.6em;
+	text-decoration: none;
+	color:black;
+	background-color: transparent;
+	padding: none;
+	margin: none;
+
+}
+
+.main-header{
+	color: black;
+	text-decoration: italic;
+}
+
+.page-link{
+	text-decoration: none;
+}
+.button:hover{
+	background: red;
+	color: #fff;
+
+}
+/*.li{
+	
+	padding: 1%;
+	margin:1%;
+	border: 1%;
+}
+*/
+}
+.p{
+	padding-left: 50%;
+	margin:50%;
+}
+
+.fclient{
+	width:399px;
+	height:297px;
+	border:1px solid #000;
+	margin-top:30px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/findclient.PNG');
+	background-position: 50px 100px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.selectclient{
+	width:638px;
+	height:218px;
+	border:1px solid #000;
+	margin-top:none;
+	margin-left: 400px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/selectclient.PNG');
+	background-position: 50px 100px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.categories li{
+	padding-bottom: 6px;
+	border-bottom: dotted 1px #333;
+	list-style-image: url('../images/images.jpg')
+}
+.findclient{
+	width:10px;
+	height:10px;
+	border:1px solid #000;
+	margin-top:30px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/siege tank.jpg');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.lip p{
+	margin-top: 0em;
+	border-top: 0em;
+	padding-top: 0em;
+
+}
+
+.edit {
+	width: 547px;
+	height:34px;
+	border:1px solid #000;
+	margin-top:0px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/edit.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+
+.dbf {
+	width: 488px;
+	height:600px;
+	border:1px solid #000;
+	margin-top:0px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/setdbf.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+
+.perms {
+	width: 354px;
+	height:472px;
+	border:1px solid #000;
+	margin-top:0px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/perms.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+
+.dbfolder {
+	width: 1054px;
+	height: 645px;
+	border:1px solid #000;
+	margin-top:0px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/dbfolder.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+
+.improdata {
+	width: 658px;
+	height: 162px;
+	border:1px solid #000;
+	margin-top:0px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/improdata.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+
+.share {
+	width: 615px;
+	height: 446px;
+	border:1px solid #000;
+	margin-top:0px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/win10share.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+
+.map {
+	width: 613px;
+	height: 451px;
+	border:1px solid #000;
+	margin-top:0px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/map.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+.thispc {
+
+	width: 168px;
+	height: 652px;
+	border:1px solid #000;
+	margin-top:0px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/win10.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+
+
+.repbuild {
+
+	width: 559px;
+	height: 467px;
+	border:1px solid #000;
+	margin-top:0px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/repbuild.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+
+.reportbuild {
+
+	width: 681px;
+	height: 120px;
+	border:1px solid #000;
+	margin-top:0px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/reportbuild.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+.repmenu {
+
+	width: 421px;
+	height: 383px;
+	border:1px solid #000;
+	margin-top:0px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/repmen.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+
+.quickrep {
+
+	width: 581px;
+	height: 308px;
+	border:1px solid #000;
+	margin-top:0px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/quickrep.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+
+.management {
+
+	width: 517px;
+	height: 77px;
+	border:1px solid #000;
+	margin-top:0px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/management.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+
+.codereporter {
+
+	width: 670px;
+	height: 203px;
+	border:1px solid #000;
+	margin-top:0px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/codereporter.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+.selectdatafile {
+
+	width: 619px;
+	height: 301px;
+	border:1px solid #000;
+	margin-top:0px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/selectdatafile.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+
+.relation {
+
+	width: 458px;
+	height: 109px;
+	border:1px solid #000;
+	margin-top:0px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/relation.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+
+.relation1 {
+
+	width: 305px;
+	height: 107px;
+	border:1px solid #000;
+	margin-top:0px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/relation1.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+
+.datalink {
+
+	width: 490px;
+	height: 391px;
+	border:1px solid #000;
+	margin-top:0px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/datalink.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+
+.slave {
+
+	width: 251px;
+	height: 177px;
+	border:1px solid #000;
+	margin-top:0px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/slave.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.repwiz {
+
+	width: 548px;
+	height: 300px;
+	border:1px solid #000;
+	margin-top:0px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/repwiz.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.incfields {
+
+	width: 587px;
+	height: 428px;
+	border:1px solid #000;
+	margin-top:0px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/incfields.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.qxp {
+
+	width: 635px;
+	height: 491px;
+	border:1px solid #000;
+	margin-top:0px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/qxp.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.c1rep {
+
+	width: 784px;
+	height: 277px;
+	border:1px solid #000;
+	margin-top:0px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/c1rep.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.addopto {
+
+	width: 1540px;
+	height: 612px;
+	border:1px solid #000;
+	margin-top:0px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/addopto.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.pd2pcinst {
+
+	width: 1098px;
+	height: 624px;
+	border:1px solid #000;
+	margin-top:0px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/pd2pcinst.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.checking {
+
+	width: 1633px;
+	height: 876px;
+	border:1px solid #000;
+	margin-top:0px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/checking.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.check {
+
+	width: 1483px;
+	height: 694px;
+	border:1px solid #000;
+	margin-top:0px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/check.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.balance {
+
+	width: 1121px;
+	height: 878px;
+	border:1px solid #000;
+	margin-top:0px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/balance.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.dbfund {
+
+	width: 651px;
+	height: 364px;
+	border:1px solid #000;
+	margin-top:0px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/dbfund.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.rstruc {
+
+	width: 390px;
+	height: 330px;
+	border:1px solid #000;
+	margin-top:0px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/rstruc.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.ssms {
+
+	width: 631px;
+	height: 445px;
+	border:1px solid #000;
+	margin-top:0px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/ssms.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.summary {
+
+	width: 726px;
+	height: 337px;
+	border:1px solid #000;
+	margin-top:0px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/summary.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.mo {
+
+	width: 246px;
+	height: 204px;
+	border:1px solid #000;
+	margin-top:0px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/mo.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.ns {
+
+	margin:	0px;
+	border:	0px;
+	padding: 0px;
+
+}
+.ns1 {
+
+	margin:	0px;
+	border:	0px;
+	padding-left: 50px;
+
+}
+
+.ns2 {
+
+	margin:	0px;
+	border:	0px;
+	padding-left: 10px;
+
+}
+
+.exnorm {
+
+	width: 303px;
+	height: 304px;
+	border:1px solid #000;
+	margin-top:0px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/exnorm.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.nf2 {
+
+	width: 560px;
+	height: 436px;
+	border:1px solid #000;
+	margin-top:0px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/2nf.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.nf3 {
+
+	width: 689px;
+	height: 400px;
+	border:1px solid #000;
+	margin-top:0px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/3nf.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.mferi {
+
+	width: 645px;
+	height: 458px;
+	border:1px solid #000;
+	margin-top:0px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/mferi.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.constraints {
+
+	width: 768px;
+	height: 308px;
+	border:1px solid #000;
+	margin-top:0px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/constraints.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.rswk {
+
+	width: 566px;
+	height: 374px;
+	border:1px solid #000;
+	margin-top:10px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/rswk.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.norsum {
+
+	width: 775px;
+	height: 363px;
+	border:1px solid #000;
+	margin-top:10px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/norsum.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.dtype {
+
+	width: 664px;
+	height: 395px;
+	border:1px solid #000;
+	margin-top:10px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/dtype.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.imandex {
+
+	width: 768px;
+	height: 387px;
+	border:1px solid #000;
+	margin-top:10px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/imandex.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.tables {
+
+	width: 760px;
+	height: 340px;
+	border:1px solid #000;
+	margin-top:10px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/tables.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.view {
+
+	width: 279px;
+	height: 249px;
+	border:1px solid #000;
+	margin-top:10px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/view.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.credb {
+
+	width: 941px;
+	height: 724px;
+	border:1px solid #000;
+	margin-top:10px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/credb.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+
+.crestate {
+
+	width: 796px;
+	height: 411px;
+	border:1px solid #000;
+	margin-top:10px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/crestate.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.selstate {
+
+	width: 708px;
+	height: 387px;
+	border:1px solid #000;
+	margin-top:10px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/selstate.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.multcrit {
+
+	width: 751px;
+	height: 338px;
+	border:1px solid #000;
+	margin-top:10px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/multcrit.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.coding {
+
+	width: 803px;
+	height: 564px;
+	border:1px solid #000;
+	margin-top:10px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/coding.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.coding1 {
+
+	width: 1383px;
+	height: 577px;
+	border:1px solid #000;
+	margin-top:10px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/coding1.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.Debcreds {
+
+	width: 933px;
+	height: 483px;
+	border:1px solid #000;
+	margin-top:10px;
+	box-sizing: border-box;
+	position: relative;
+	background-image:url('../images/debcred.PNG');
+	background-position: 100px 200px;
+	background-repeat: no-repeat;
+	background-position: center;
+}
