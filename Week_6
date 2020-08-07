@@ -1,0 +1,121 @@
+06 Server Side APIs 
+ 
+Notes: 
+AJAX = Asynchronous JavaScript and XML. AJAX is a technique for creating fast and dynamic web pages. AJAX allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. 
+JSON View extension added — looking at a website — we can see what is being sent and received from the server. 
+—displays the object — 
+Command Line (terminal)
+	* Wget - will show the objects
+	* Curl - will “print”
+http://nyt-mongo-scraper.herokuapp.com/
+http://nyt-mongo-scraper.herokuapp.com/api/headlines
+SDK: is a kit that includes instructions that allow developers to create systems and develop applicationsAPI: using the method 
+API: are purpose-built for an express use — to allow communication between applications ** WE WANT API over SDK**
+
+Questions: 
+What is an API?
+	- a set of functions and procedures allowing the creation of applications that 		access the features or data of an operating system, application, or other service.
+What does API stand for?
+	- Application Programming Interface
+What are some examples of APIs? (Find links to specific APIs *below*)
+	- Geolocation API 
+	- weather API
+	- JQuery API 
+What do these specific APIs allow you as a developer to do? 
+	- allows developer to use large amounts of data 
+Links:
+https://www.howtogeek.com/343877/what-is-an-api/
+rapidapi.com/divad12/api/numbers-1
+faceplusplus.com/face-detetion/
+pokeapi.co
+https://open.gsa.gov/api/
+
+Directions:
+- using the RapidAPI library as a starting point experiment with a few APIS 
+Activities: 
+01-CustomerObject
+
+console.log(customer.firstName)
+console.log(address.state)
+console.log(phoneNumber[0].number)
+console.(phoneNumber[1].number) 
+02-Ajax_OMDB
+** Most common methods: 
+	* GET, POST, FOR, DELETE
+Time it takes to read a document —> response time will differ, GET will be a longer response in order to request, read, and return results 
+Asynchronies: there no synchronicity with requests, they are not necessary running in a specific order —> this executes first, then this, …. etc. BUT, 
+Event driven programing will be another lesson 
+Server times will effect load times — requested are in order, returns will be depended  on server response time 
+Promise - 
+** Most common promises (might be wrong): 
+	*then, catch, finally
+
+Example 1: 
+
+
+
+
+
+
+
+
+Example 2:
+
+
+
+
+
+
+
+
+
+Example 3:
+
+
+
+
+
+
+
+
+
+Example 4: 
+
+
+
+
+
+
+
+
+
+
+Example 5:
+
+
+
+
+
+
+
+
+
+
+Example 6:
+
+
+
+
+
+
+
+03-AJAX_to_HTML
+- watch back the zoom recording 
+
+04-Giphy_API
+Giphy Documentation using the Giphy API Documentation, try to research answers to the following questions:
+How would you return back a single gif tied to a search term?
+How would you return five gifs tied to a search term?
+How would you return the trending gifs back from this API?
+Giphy API DEMO video review:
+ http://www.youtube.com/watch?v=Kp7Xy2LScLM
